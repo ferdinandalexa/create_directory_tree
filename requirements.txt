@@ -1,0 +1,3 @@
+Click==7.0
+# Editable install with no version control (course==0.1)
+-e /mnt/c/Users/Lenovo/Documents/Estudios/proyectos/scripts-python/create_course
