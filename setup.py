@@ -4,7 +4,7 @@ from setuptools import setup
 setup(
     name='course',
     version='0.1',
-    py_modules=['course'],
+    py_modules=['course', 'services'],
     install_requires=[
         'Click',
     ],
